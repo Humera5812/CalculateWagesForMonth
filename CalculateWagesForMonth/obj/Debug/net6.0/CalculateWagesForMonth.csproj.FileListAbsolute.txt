@@ -1,0 +1,15 @@
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\obj\Debug\net6.0\CalculateWagesForMonth.csproj.AssemblyReference.cache
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\obj\Debug\net6.0\CalculateWagesForMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\obj\Debug\net6.0\CalculateWagesForMonth.AssemblyInfoInputs.cache
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\obj\Debug\net6.0\CalculateWagesForMonth.AssemblyInfo.cs
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\obj\Debug\net6.0\CalculateWagesForMonth.csproj.CoreCompileInputs.cache
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\bin\Debug\net6.0\CalculateWagesForMonth.exe
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\bin\Debug\net6.0\CalculateWagesForMonth.deps.json
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\bin\Debug\net6.0\CalculateWagesForMonth.runtimeconfig.json
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\bin\Debug\net6.0\CalculateWagesForMonth.dll
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\bin\Debug\net6.0\CalculateWagesForMonth.pdb
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\obj\Debug\net6.0\CalculateWagesForMonth.dll
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\obj\Debug\net6.0\refint\CalculateWagesForMonth.dll
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\obj\Debug\net6.0\CalculateWagesForMonth.pdb
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\obj\Debug\net6.0\CalculateWagesForMonth.genruntimeconfig.cache
+C:\Users\Humera\source\repos\CalculateWagesForMonth\CalculateWagesForMonth\obj\Debug\net6.0\ref\CalculateWagesForMonth.dll
